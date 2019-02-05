@@ -1,0 +1,88 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex43",
+            "request": "launch",
+            "mainClass": "Ex43",
+            "projectName": "JavaEx_beac9a1b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Chap4MarksMatrix",
+            "request": "launch",
+            "mainClass": "Chap4MarksMatrix",
+            "projectName": "JavaEx_beac9a1b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Chap4StudentMarksArray",
+            "request": "launch",
+            "mainClass": "Chap4StudentMarksArray",
+            "projectName": "JavaEx_beac9a1b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Chap4DivisibleBy3",
+            "request": "launch",
+            "mainClass": "Chap4DivisibleBy3",
+            "projectName": "JavaEx_beac9a1b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Chap4ForFor",
+            "request": "launch",
+            "mainClass": "Chap4ForFor",
+            "projectName": "JavaEx_beac9a1b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Chap4DoWhile",
+            "request": "launch",
+            "mainClass": "Chap4DoWhile",
+            "projectName": "JavaEx_beac9a1b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Chap4While",
+            "request": "launch",
+            "mainClass": "Chap4While",
+            "projectName": "JavaEx_beac9a1b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Chap4Block",
+            "request": "launch",
+            "mainClass": "Chap4Block",
+            "projectName": "JavaEx_beac9a1b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PatternMaker",
+            "request": "launch",
+            "mainClass": "PatternMaker",
+            "projectName": "JavaEx_beac9a1b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Chap3CondOp",
+            "request": "launch",
+            "mainClass": "Chap3CondOp",
+            "projectName": "JavaEx_beac9a1b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Chap3EqualityOp",
+            "request": "launch",
+            "mainClass": "Chap3EqualityOp",
+            "projectName": "JavaEx_beac9a1b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ex1",
+            "request": "launch",
+            "mainClass": "ex1",
+            "projectName": "JavaEx_beac9a1b"
+        }
+    ]
+}
